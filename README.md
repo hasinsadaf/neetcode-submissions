@@ -50,12 +50,6 @@ Data Structures & Algorithms/
 This repository primarily includes solutions in:
 
 - C++
-- Python
-- JavaScript / TypeScript
-- Java
-
-Language choice depends on the problem context and experimentation.
-
 ---
 
 ## Workflow
